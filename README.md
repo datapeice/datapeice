@@ -9,7 +9,7 @@
     <a href="https://t.me/datapeice" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
-    <a href="https://linkedin.com/in/datapeice" target="_blank">
+    <a href="https://www.linkedin.com/in/illia-datsiuk-972953348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:datapeice@gmail.com">
