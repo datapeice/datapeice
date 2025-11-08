@@ -64,7 +64,7 @@
 
 ---
 
-### ⚡ Fun facts
+### ⚡ Fun facts
 
 - 🖥️ I build computers from scratch and experiment with Z80 projects
 - 🌐 I enjoy setting up servers, networking, and self-hosted systems
