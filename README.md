@@ -1,25 +1,25 @@
 <div id="header" align="center">  
   <h1>Hey, I'm Illia 🖐️</h1>
   <h3>Linux admin, enthusiast & Computer Science student from Poland 🇵🇱</h3>
+</div>
 
-<center>
-  <div id="socials">
-    <a href="https://x.com/datapeice" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-    </a>
-    <a href="https://t.me/datapeice" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="https://www.linkedin.com/in/illia-datsiuk-972953348" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:datapeice@gmail.com" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>   
-  </div>
-</center>
+<p align="center">
+  <a href="https://x.com/datapeice" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://t.me/datapeice" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.linkedin.com/in/illia-datsiuk-972953348" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:datapeice@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>   
+</p>
 
 ---
+
 
 ### 👨‍💻 About me
 
