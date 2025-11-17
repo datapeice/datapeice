@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <p align="center">
   <a href="https://datapeice.me" target="_blank" style="text-decoration:none;">
+<img src="https://datapeice.me/favicon.svg" height="28" style="vertical-align: middle;" alt="Portfolio">  
     <span style="
       background:#242424;
       color:#D70751;
