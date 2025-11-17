@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://datapeice.me" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio">
+    <img src="https://datapeice.me/favicon.svg" height="28" style="vertical-align: middle;" alt="Portfolio">
   </a>
   <a href="https://x.com/datapeice" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
