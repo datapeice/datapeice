@@ -4,9 +4,20 @@
 </div>
 
 <p align="center">
+  <p align="center">
   <a href="https://datapeice.me" target="_blank" style="text-decoration:none;">
-    <img src="https://datapeice.me/favicon.svg" height="28" style="vertical-align: middle;" alt="Portfolio">
+    <span style="
+      background:#242424;
+      color:#D70751;
+      padding:6px 12px;
+      border-radius:6px;
+      font-weight:600;
+      font-family:Arial, sans-serif;
+    ">
+      datapeice.me
+    </span>
   </a>
+</p>
   <a href="https://x.com/datapeice" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
