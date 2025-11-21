@@ -43,16 +43,16 @@
 ### 🧰 Tech stack
 
 **Languages:**  
-`Java` • `Kotlin` • `Python` • `Bash` • `C` • `Markdown` • `Rust` • `Solidity`
+`Java` • `Kotlin` • `Python` • `Bash` • `C` • `Markdown` • `Rust` • `Solidity` • `Go`
 
 **Platforms & Frameworks:**  
-`Linux` • `Android` • `GTK` • `Jetpack Compose` • `FabricMC` • `Flask` • `Ktor`
+`Linux` • `Android` • `GTK` • `Jetpack Compose` • `FabricMC` • `Flask` • `gRPC`
 
 **System Administration:**  
 `Docker` • `Podman` • `Nginx` • `systemd` • `cron` • `iptables` • `SSH` • `RAID` • `Network configuration` • `Self-hosted setups`
 
 **Development Tools:**  
-`Git` • `Gradle` • `Make` • `QEMU` • `Vim` • `Neovim` • `GDB` • `Flatpak`• `ninja`
+`Git` • `Gradle` • `Make` • `QEMU` • `Vim` • `Neovim` • `GDB` • `Flatpak` • `ninja`
 
 ---
 
