@@ -43,7 +43,7 @@
 ### 🧰 Tech stack
 
 **Languages:**  
-`Java` • `Kotlin` • `Python` • `Bash` • `C` • `Markdown` • `Rust` • `Solidity` • `Go`
+`Java` • `Kotlin` • `Python` • `Bash` • `C` • `Solidity` • `Go`
 
 **Platforms & Frameworks:**  
 `Linux` • `Android` • `GTK` • `Jetpack Compose` • `FabricMC` • `Flask` • `gRPC`
