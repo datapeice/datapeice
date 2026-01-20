@@ -1,5 +1,5 @@
 <div id="header" align="center">  
-  <h1>Hey, I'm Illia 🖐️</h1>
+  <h1>Hey, I'm Illia</h1>
   <h3>Linux admin, enthusiast & Computer Science student from Poland 🇵🇱</h3>
 </div>
 
@@ -24,23 +24,23 @@
 ---
 
 
-### 👨‍💻 About me
+### About me
 
-- 🎓 Computer Science Technician student at a Polish technical college
-- 🐧 Passionate about **Linux**, **servers**, **containers**, and **system architecture**
-- 💻 I enjoy configuring, automating, and optimizing systems until they run smoother than they should
-- 🧩 My playground:
+- Computer Science Technician student at a Polish technical college
+- Passionate about **Linux**, **servers**, **containers**, and **system architecture**
+- I enjoy configuring, automating, and optimizing systems until they run smoother than they should
+- My playground:
   - **Server administration & network management**
   - **Linux tinkering and end-to-end service development**
   - **Low-level experiments: building computers from scratch, Z80 projects, and OSDev**
   - **Decentralized systems and Web3 experiments**
   - **Containers, orchestration, and self-hosted setups**
-- ⚙️ I like stable systems, readable configs, and clean interfaces
-- 🌍 I speak **Polish**, **Russian**, **Ukrainian**, and a bit of **English**
+- I like stable systems, readable configs, and clean interfaces
+- I speak **Polish**, **Russian**, **Ukrainian**, and a bit of **English**
 
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 **Languages:**  
 `Java` • `Kotlin` • `Python` • `Bash` • `C` • `Solidity` • `Go`
@@ -56,26 +56,26 @@
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div id="stat" align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datapeice&theme=github_dark" />  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datapeice&theme=github_dark" />  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=datapeice&theme=github_dark" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datapeice&theme=transparent" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datapeice&theme=transparent" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=datapeice&theme=transparent" />  
 </div>
 
 ---
 
-### ⚡ Fun facts
+### Fun facts
 
-- 🖥️ I build computers from scratch and experiment with Z80 projects
-- 🌐 I enjoy setting up servers, networking, and self-hosted systems
-- 📱 I like creating end-to-end services with custom backends and frontends
-- 🐧 Linux is my playground — from embedded setups to desktop environments
-- ⚡ Weekends are for tinkering with Raspberry Pi, GTK apps, and side projects
+- I build computers from scratch and experiment with Z80 projects
+- I enjoy setting up servers, networking, and self-hosted systems
+- I like creating end-to-end services with custom backends and frontends
+- Linux is my playground — from embedded setups to desktop environments
+- Weekends are for tinkering with Raspberry Pi, GTK apps, and side projects
 
 ---
 
-### 🚀 Motto
+### Motto
 
 > *Keep it clean. Keep it stable. Think low-level*
