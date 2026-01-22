@@ -68,7 +68,7 @@
 - I enjoy setting up servers, networking, and self-hosted systems
 - I like creating end-to-end services with custom backends and frontends
 - Linux is my playground — from embedded setups to desktop environments
-- Weekends are for tinkering with Raspberry Pi, GTK apps, and side projects
+- Weekends are for tinkering with Raspberry Pi, experimenting with Linux, and side projects
 
 ---
 
