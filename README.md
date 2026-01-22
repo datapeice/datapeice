@@ -1,6 +1,6 @@
 <div id="header" align="center">  
   <h1>Hey, I'm Illia</h1>
-  <h3>Linux admin, enthusiast & Computer Science student from Poland 🇵🇱</h3>
+  <h3>Computer Science Student in Poland🇵🇱, from Bare-Metal to Cloud-Native Enthusiast</h3>
 </div>
 
 <p align="center">
@@ -35,7 +35,6 @@
   - **Low-level experiments: building computers from scratch, Z80 projects, and OSDev**
   - **Decentralized systems and Web3 experiments**
   - **Containers, orchestration, and self-hosted setups**
-- I like stable systems, readable configs, and clean interfaces
 - I speak **Polish**, **Russian**, **Ukrainian**, and a bit of **English**
 
 ---
@@ -43,16 +42,13 @@
 ### Tech stack
 
 **Languages:**  
-`Java` • `Kotlin` • `Python` • `Bash` • `C` • `Solidity` • `Go`
+`Java` • `Golang` • `Python` • `C` • `Solidity` • `Bash`
 
-**Platforms & Frameworks:**  
-`Linux` • `Android` • `GTK` • `Jetpack Compose` • `FabricMC` • `Flask` • `gRPC`
-
-**System Administration:**  
-`Docker` • `Podman` • `Nginx` • `systemd` • `cron` • `iptables` • `SSH` • `RAID` • `Network configuration` • `Self-hosted setups`
+**Platforms & Technologies:**  
+`Linux` `Spring` • `gRPC` • `REST API` • `Flask` • `Kafka` • `Redis` • `Docker` • `Kubernetes` • `PostgreSQL` • `Blockchain`
 
 **Development Tools:**  
-`Git` • `Gradle` • `Make` • `QEMU` • `Vim` • `Neovim` • `GDB` • `Flatpak` • `ninja`
+`Git` • `Gradle` • `Make` • `QEMU` •  `Neovim` • `Bash`
 
 ---
 
