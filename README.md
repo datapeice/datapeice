@@ -7,5 +7,5 @@ Focused in:
 - System Architecture
 
 <div align="center">
-<img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datapeice&theme=transparent](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datapeice&theme=transparent)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datapeice&theme=transparent" />
 </div>
