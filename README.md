@@ -8,4 +8,6 @@ Focused in:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datapeice&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datapeice&theme=transparent" />
+
 </div>
